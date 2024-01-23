@@ -12,13 +12,13 @@ import reactor.core.publisher.Mono;
 @Component
 public class ExampleHandler {
 
-	@Value("${dbname}")
+	@Value("${dbname:defaultdb}")
 	private String dbname;
 	
-	@Value("${dbusername}")
+	@Value("${dbusername:defaultusername}")
 	private String dbusername;
 	
-	@Value("${dbpassword}")
+	@Value("${dbpassword:defaultpass}")
 	private String dbpassword;
 
 	public Mono<ServerResponse> hello(ServerRequest request) {

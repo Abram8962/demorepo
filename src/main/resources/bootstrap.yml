@@ -3,3 +3,10 @@ spring:
     gcp:
       secretmanager:
         project-id: the-bird-411104
+
+  config:
+    import: sm://
+
+dbname: "${sm://dbname}"
+dbusername: "${sm://dbusername}"
+dbpassword: "${sm://dbpassword}"
