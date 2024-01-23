@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    gcp:
+      secretmanager:
+        project-id: the-bird-411104
