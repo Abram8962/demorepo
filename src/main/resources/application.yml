@@ -2,7 +2,7 @@ spring:
   config:
     import: sm://
 
-dbname: ${sm://dbname}
-dbusername: ${sm://dbusername}
-dbpassword: ${sm://dbpassword}
+dbname: "${sm://dbname}"
+dbusername: "${sm://dbusername}"
+dbpassword: "${sm://dbpassword}"
 
