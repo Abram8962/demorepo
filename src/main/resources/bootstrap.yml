@@ -3,5 +3,5 @@ spring:
     gcp:
       secretmanager: enabled
 
-    credentials:
-      location: 'classpath:the-bird-411104-968841424385.json'
+#    credentials:
+#      location: 'classpath:the-bird-411104-049e2758b4cc.json'
