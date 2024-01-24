@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "the-bird-411104",
+  "private_key_id": "96884142438536ca1a35b0a143f913de9e629c1e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2KclNHg7WPZYS\naymu4H7tDbWasNyhbLr/lPSGJDU/qHVCq1sTEpbsvkcxi/dd0/m1q8x3enZNTY3I\n74iFWFdiUO7w8Hd38q/jr1EatmIwapsIERJQCibX7N64v7SAgOudn5kG/LxTBEzo\nQF8hLU7KoWBEHhlBBHm42YJLTuDMA94tMKC91FY0fvm8mGg8Sgd0FdbXDlwIiJZi\n5agyIpASrVCkqP5wKXNKwtm7nBzLx0MjGtW8fIbF7k7vyLF2VE0M9LByTOba+bfF\nMUHTWu1qO/LFQ6BtEibrQ4EAKXMgdYfR7njX/gdso/AAil4hvfJ8T782WBb/sSBV\nyzhOs8GXAgMBAAECggEAS4MQ5j3iip7m+eWgVtTK6Lt5H5HXM7dd4Rq/LmgOBsBv\nM17TFxnqpGLQIlLSDPwVFGEOFi0Woz7V2oipABW5y5CfLBOSgo+AqBKBvWADXeyj\nLXneLH240mNnhBA749UNVr7U8ZeM/aDXvKMKjDc65TZ2MGaFs3UGfED2CP++ofL4\nAIzHJ7nfejCxYj/CqpzJ6+P835woDO/NPHc+Is/e0wpwbkgoHYlRS9RGwLj3dwje\npiH9GW4YtxGRnWHemEUjlTwrTWtnD07dhoiwxOLwo+/QWjK246H+7B3cOVaiDYPe\nyDVNNhUuLDNGX6T4g5BelmIOHyXIQ619SJppEMzuyQKBgQD1gjd46KZ80+VriZJw\nRxkz24u6dFItejnILr/lVeNcdRsUhloz/oGPvjRvP3zNZUpUsZfuP+ZVyzOAGf6S\n1k39bYyfkpFarJEJeL8h/ayhZiUIijwZb7UKHU4B96xPHNBgjiIIYPy/bg6IEi4H\n9KkY/JduDStYgpjxXXqf/GqVwwKBgQC98pd1ayiPkJmY4FfDQn6NsCx5jBVzdRoo\nDSZZYs9hRZDFEX8Ba/qd318T548O3spzGmgfD4yMzpHnoy6xkbHJTQgAMuK78Nak\nRyqxk+2zXupZlZrDkXNKHDYUYSmXRwMln9zI3DmtOWr3yVCabsWK5JbZurUhrqwX\nIOAJvK7jnQKBgQCci8zNZyQKAp+Og6mBuIREgeDGIrfn0cEYeV7ZYHvaj72Vx9mq\nv8Vjn/gVW9k7qzPLb3aeb9ZyrGCJdYnTnZ0bVQhPFAllVRYigQD3LqcuP1Cr8mFC\nIu3AplEAhio0Q/5HIzpmN1nSwt23PEhnwEU27pGsle8mwBfACEhRzYU1OwKBgBPp\nWEMwxoG2MMO70LdhQw7rRt4+9wixX9qO9lQsbXzO5Awkd2HYxd7CyZ62iWKPrD1A\nqWWIJb2k8dqMWpq2oSJu9sW+j9IPvxBdfXY8AZDqBDr72ctidelw56JfRRLcmNHa\n3jQYEdu8xx/OdKqbrg2PRNjyH4a2XsfV5GZg5xxpAoGADuH8iPaVHP57TZcdYaC0\npGqEGBHiyXLx8HoMvfKFEcE/CccJp7GkYZGeV8B9OVKFGr+rpANYNv7GEfDckKOd\nwQ8qA49nMi7nYk4YhyhxLO2b15Ii37rYKO/mBuqWKi09pkXEHhS4LT2jr+IgdX9G\nBdxBxoqr/NRspCFJslSxyXk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "secret-manager-service-accout@the-bird-411104.iam.gserviceaccount.com",
+  "client_id": "117942069026200399287",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/secret-manager-service-accout%40the-bird-411104.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
