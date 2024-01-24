@@ -5,7 +5,7 @@ spring:
   cloud:
     gcp:
       credentials:
-        location: 'classpath:the-bird-411104-968841424385.json'
+        location: 'classpath:the-bird-411104-9c5d1600c0e5.json'
 
 dbname: "${sm://projects/the-bird-411104/secrets/dbname}"
 dbusername: "${sm://projects/the-bird-411104/secrets/dbusername}"
