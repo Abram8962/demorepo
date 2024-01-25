@@ -15,6 +15,7 @@ public class ExampleRouter {
   @Bean
   public RouterFunction<ServerResponse> routeExample (ExampleHandler exampleHandler) {
     return RouterFunctions
-        .route(RequestPredicates.GET("/example").and(RequestPredicates.accept(MediaType.TEXT_PLAIN)), exampleHandler::hello);
+        .route(RequestPredicates.GET("/example").and(RequestPredicates.accept(MediaType.TEXT_PLAIN)), exampleHandler::hello)
+        .andRoute(RequestPredicates.GET("/test").and(RequestPredicates.accept(MediaType.TEXT_PLAIN)), exampleHandler::test);
   }
 }

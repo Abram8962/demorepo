@@ -12,18 +12,23 @@ import reactor.core.publisher.Mono;
 @Component
 public class ExampleHandler {
 
-	@Value("${dbname}")
+	//@Value("${dbname}")
 	private String dbname;
 	
-	@Value("${dbusername}")
+	//@Value("${dbusername}")
 	private String dbusername;
 	
-	@Value("${dbpassword}")
+	//@Value("${dbpassword}")
 	private String dbpassword;
 
 	public Mono<ServerResponse> hello(ServerRequest request) {
 		String secrets = " { dbname : "+dbname +" || dbusername : "+ dbusername +" || dbpassword : "+dbpassword +" }";
 		return ServerResponse.ok().contentType(MediaType.TEXT_PLAIN)
 				.body(BodyInserters.fromObject("Secret manager values : "+ secrets));
+	}
+	
+	public Mono<ServerResponse> test(ServerRequest request) {		
+		return ServerResponse.ok().contentType(MediaType.TEXT_PLAIN)
+				.body(BodyInserters.fromObject("Secret manager values : "));
 	}
 }
