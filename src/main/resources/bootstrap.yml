@@ -1,7 +1,10 @@
 spring:
   cloud:
     gcp:
-      secretmanager: enabled
+      secretmanager:
+        enabled: true
+        project-id: the-bird-411104
+        credentials:
+          location: classpath:/the-bird-411104-2a8eb09db276.json
 
-#    credentials:
-#      location: 'classpath:the-bird-411104-049e2758b4cc.json'
+ 
