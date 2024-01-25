@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-poc-412314",
+  "private_key_id": "41ed857408220fb1b14b1a5a630437d449a60c87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCxI/TopxfVD9NZ\nto7uyJXI+t/6QijTLNDLAE0ES9BhCVJQDRQCPMZVggS2zKADVoxa3rNIep+sEPpO\n/gY9OcrPuo9nG8rhCTQCn9TjFlcq3ZwFIucDN2NKwY71/I5qBgKvz+7M66k45Fe7\nQc+y68An2lPVRzcr3wglJPGJhw61dXFy8DwiYlvlTSy7tkETBVTLyzuCMcyRdDiX\notGjFQFKfltx26LLXayhw74zR/kJJuPFqa1ibTVPTTKA4KGdrkdrJ9I6h3OBIlCr\niZG/BHutYImVkpMXy89w0r/8hXmqJymes7A9dkQ8k5bCcl3wE7ys91lw4+FUsx6D\ndvotKfuNAgMBAAECggEAFrJBtfF61zzA2rTOWX/v2SFzwy/o5S3PzsLKG2vPVi+I\nkWMrliHNU7Vl/zn2opbbQuVX2UiE3toKCEb566xU9Qq1RwPDmdPBCzkJYNNC9eYR\nEINpT/svyKtGMvRaFvGQNJCSy0TCmNyA9Sg4gXc9Vp3dsez+/6sC8ydpnzJjyxH7\nj6MPrrwUlTvHQrxdVHiSrJgHNr/U4eZ0TCyCWzqAhMhl6Dy0JW6U4qyRW9Pa5tRa\nWZpIT4xWE33RIbpzle12/nn24R70SjP9hfM8jFEwh1S+nub/k/AxP3V531CZRf1R\ne9x9gqPYsx1MDjbdweLeZxz4hThA5FArwlDk2GGjYQKBgQDbppFiZJmhy1AxFmV4\n+SVVzH1V15i5uVvKzEUzB9OVS4rzrwA8cdbpmXOaqjPJst0d6nD6SdUxBuRRjiCF\ngyJxu8JZUWjPuKbsWrUzs97rIzLhCaTqn7TgHEt4Y7aT1/aYIPHwFgJoxhc7ZW6R\n4hukv+RgHK+R7qyDYE2OrjgTVQKBgQDOdHUQ3kKS+h5CgzZBgXFLBueWnsR/mYaS\nmogCy4Va0q+kWaCjt1AejADfFHWRoxPOJnG+WdjQL4kVpM7Dtcju5lXaIZ4IYrzy\nii7eSSpbFH1p/3ScF+EemIXlzPzatLDQIv9iV2XadTxjyuxSqZ33ACXLrxfcv/X1\nNjoPmXQ3WQKBgQDQ+di4VB4W4Oiay0QfpGrxBmz4jvavPLsoZtAvjPKwx/6beZQv\n7d8awPRL4kMDUzksjTCP8E71JilzrlUisXDD5G8zq1Cc0IF/vY1Ic4lTDVoK4LIW\nx3u+/SyQjc3XO1FRy4ZjdY01QcI4sHhSM105kZgmGSSxIvLey3D+nqKbQQKBgQCn\ngXt97ScMwxyMEJOTwGdgXUDHRxfdA35ZMkIKKoCPOQPDD+kzC8dYkXUfiiT9vdeS\n2kRNEe7EstzBj88moTZfBsk/SylCWoI9Mvpl5e0UquI6f0ZoY0OGpG93DMNW22Xd\n6ZdVfd2oypfty7XEN9RvlFIWGYD93U2833tqLrJJOQKBgQCszDj4w80jKPAoUZY7\nFWt5rxVcM0nVOUC+suNN1/lUnYslrC9T5LX3mKhQhc8RpQL3qjYEMzCKrAiaYi73\nIwcZ6K/lkqiszQ0a0ekB6VzrhM2q+7NIDbq+yXITcX11F6oGtddUKSdK/MEtpdYi\nnBFCTPotSlDaTfgqxu4vj/fNRA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "secret-manager-demo-account@gcp-poc-412314.iam.gserviceaccount.com",
+  "client_id": "115533671709220984954",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/secret-manager-demo-account%40gcp-poc-412314.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
