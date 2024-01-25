@@ -1,6 +1,15 @@
 spring: 
   config:
-    import: sm://  
+    import: sm:// 
+
+
+  cloud:
+    gcp:
+      secretmanager:        
+        project-id: poc-project-412308
+        credentials:
+          location: classpath:/poc-project-412308-04def3696337.json
+
 
 #  cloud:
 #   gcp:
@@ -8,8 +17,8 @@ spring:
 #       location: classpath:/the-bird-411104-2a8eb09db276.json
 #     project-id: the-bird-411104
 
-dbname: "${sm://projects/the-bird-411104/secrets/dbname}"
-dbusername: "${sm://projects/the-bird-411104/secrets/dbusername}"
-dbpassword: "${sm://projects/the-bird-411104/secrets/dbpassword}"
+dbname: "${sm://projects/poc-project-412308/secrets/dbname}"
+dbusername: "${sm://projects/poc-project-412308/secrets/dbusername}"
+dbpassword: "${sm://projects/poc-project-412308/secrets/dbpassword}"
 
 
